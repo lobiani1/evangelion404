@@ -7,6 +7,6 @@ In the event of a system breach or a requested data-string that does not exist w
 
 This page treats the 404 error as a critical synchronization failure. The user's request has been intercepted by the MAGI override, indicating that the pilot's "Ego Border" has collapsed or the requested memory address is restricted under NERV Priority AAA security protocols.
 
-preview: https://lobiani1.github.io/evangelion_404/
+preview: https://lobiani1.github.io/evangelion404/
 
 God's in his heaven. All's right with the world.
